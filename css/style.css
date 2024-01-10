@@ -10,6 +10,10 @@
     color: var(--primary) !important;
 }
 
+.text-secondary {
+    color: var(--secondary) !important;
+}
+
 .text-dark {
     color: var(--dark) !important;
 }
@@ -160,6 +164,11 @@
     }
 }
 
+
+.big-info {
+	display: flex;
+	margin: 0;
+}
 
 /*** Header ***/
 .carousel-caption {
